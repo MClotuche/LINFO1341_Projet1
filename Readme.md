@@ -11,6 +11,12 @@
         - [ ] Graphiques potentiels
         - [ ] Statistiques potentielles avec <code>pyshark</code>
 
+## Timeline
+- [ ] S5: Tous les scripts terminés
+- [ ] S6: Réalisation des tests et 1ères analyses
+- [ ] S7: Analyses et début rapport
+- [ ] S8: Rapport
+
 # Fonctionalités de OneDrive
 Idée: créer nos répertoires, fichiers, dans ce dépôt git et toujours faire les tests avec eux. \
 ## Liste choisie
