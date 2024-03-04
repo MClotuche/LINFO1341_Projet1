@@ -18,7 +18,7 @@ echo "Capturing background noises for 10 seconds..."
 sleep 10
 
 # Step 2: Execute the command with SSLKEYLOGFILE and launch Google Chrome
-SSLKEYLOGFILE="$ssl_log_file" google-chrome uclouvain-my.sharepoint.com &
+SSLKEYLOGFILE="$ssl_log_file" google-chrome https://onedrive.live.com/ &
 chrome_pid=$!
 echo "Chrome launched..."
 
