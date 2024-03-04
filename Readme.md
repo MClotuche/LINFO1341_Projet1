@@ -1,5 +1,7 @@
 # Organisation
-
+Commandes utiles
+    sudo wireshark
+    SSLKEYLOGFILE="filename.txt" google-chrome 
 ## TODO
 - [x] Découvrir les fonctionalités de OneDrive
     - [ ] Décider des fonctionalités à analyse
