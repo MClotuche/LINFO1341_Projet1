@@ -1,0 +1,13 @@
+NetHogs version 0.8.6-3
+
+    PID USER     PROGRAM                 DEV         SENT      RECEIVED      
+   9731 martin   /opt/google/chrome/c..  wlp0s2      1.548       0.244 KB/sec
+      ? root     192.168.129.22:60746..              0.000       0.000 KB/sec
+      ? root     192.168.129.22:60736..              0.000       0.000 KB/sec
+      ? root     192.168.129.22:60718..              0.000       0.000 KB/sec
+      ? root     192.168.129.22:60704..              0.000       0.000 KB/sec
+      ? root     2a02:a03f:a629:301:a..              0.000       0.000 KB/sec
+      ? root     unknown TCP                         0.000       0.000 KB/sec
+
+  TOTAL                                              1.548       0.244 KB/sec
+

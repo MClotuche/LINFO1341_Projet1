@@ -17,6 +17,11 @@ tcpdump_bg_pid=$!
 echo "Capturing background noises for 10 seconds..."
 sleep 10
 
+# Step 7: End the network analysis for background noises
+kill -SIGKILL $tcpdump_bg_pid
+echo "Background noises capture finished."
+sleep 20
+
 # Step 2: Execute the command with SSLKEYLOGFILE and launch Google Chrome
 SSLKEYLOGFILE="$ssl_log_file" google-chrome https://onedrive.live.com/ &
 chrome_pid=$!
@@ -37,9 +42,7 @@ kill $tcpdump_chrome_pid
 echo "Chrome capture finished."
 
 sleep 5
-# Step 7: End the network analysis for background noises
-kill $tcpdump_bg_pid
-echo "Background noises capture finished."
+
 
 # Step 6: Filter background noises from Chrome capture: TODO
 # Extract unique IP addresses, hosts, interfaces, source, and destination addresses from the background capture file

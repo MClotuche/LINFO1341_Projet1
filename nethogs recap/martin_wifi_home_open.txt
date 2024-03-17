@@ -1,0 +1,11 @@
+    PID USER     PROGRAM            DEV         SENT      RECEIVED      
+   7427 martin   /opt/google/chr..  wlp0s2     97.322      27.590 KB/sec
+      ? root     192.168.129.22:..              0.025       0.014 KB/sec
+      ? root     192.168.129.22:..              0.025       0.014 KB/sec
+      ? root     192.168.129.22:..              0.025       0.014 KB/sec
+    637 root     /usr/sbin/Netwo..  wlp0s2      0.000       0.000 KB/sec
+      ? root     unknown TCP                    0.000       0.000 KB/sec
+
+  TOTAL                                        97.397      27.633 KB/sec
+
+
