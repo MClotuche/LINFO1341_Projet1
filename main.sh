@@ -20,7 +20,7 @@ sleep 10
 # Step 7: End the network analysis for background noises
 kill -SIGKILL $tcpdump_bg_pid
 echo "Background noises capture finished."
-sleep 20
+sleep 5
 
 # Step 2: Execute the command with SSLKEYLOGFILE and launch Google Chrome
 SSLKEYLOGFILE="$ssl_log_file" google-chrome https://onedrive.live.com/ &
@@ -37,11 +37,9 @@ wait $chrome_pid
 echo "Chrome closed."
 
 # Step 5: End the network analysis for Chrome
-sleep 5
-kill $tcpdump_chrome_pid
+sleep 10
+kill -SIGKILL $tcpdump_chrome_pid
 echo "Chrome capture finished."
-
-sleep 5
 
 
 # Step 6: Filter background noises from Chrome capture: TODO
