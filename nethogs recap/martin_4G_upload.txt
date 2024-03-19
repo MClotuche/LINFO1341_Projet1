@@ -1,0 +1,10 @@
+NetHogs version 0.8.6-3
+
+    PID USER     PROGRAM                                                                                                                                                DEV         SENT      RECEIVED      
+  54325 martin   /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handle..  wlp0s2     89.831      12.058 KB/sec
+      ? root     192.168.143.137:43064-20.189.173.12:443                                                                                                                            0.025       0.014 KB/sec
+      ? root     unknown TCP                                                                                                                                                        0.000       0.000 KB/sec
+
+  TOTAL                                                                                                                                                                            89.856      12.072 KB/sec
+
+
