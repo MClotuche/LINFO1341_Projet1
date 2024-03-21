@@ -1,0 +1,20 @@
+Domain Name,Source Port,Destination IP
+clientservices.googleapis.com,49542,2a00:1450:400e:80f::2003
+accounts.google.com,41592,2a00:1450:4013:c08::54
+onedrive.live.com,38510,13.107.139.11
+res-1.cdn.office.net,41300,2a02:a000:1:213::51f3:1ab
+spo.nel.measure.office.net,46232,2a02:a000:2:210::51f2:351
+api.onedrive.com,49132,13.107.42.12
+login.live.com,50754,20.190.181.1
+ecs.office.com,35922,2620:1ec:42::132
+res.cdn.office.net,33124,2a02:a000:1:213::51f3:1e2
+storage.live.com,45244,40.90.136.180
+safebrowsing.googleapis.com,48104,2a00:1450:400e:80e::200a
+browser.events.data.microsoft.com,32774,40.79.189.58
+translate.googleapis.com,54372,2a00:1450:400e:810::200a
+skyapi.onedrive.live.com,43890,13.104.208.165
+content.lifecycle.office.net,48462,2620:1ec:21::16
+config.edge.skype.com,45252,2603:1063:21:178::
+southcentralus1-0.pushnp.svc.ms,46730,2603:1036:2407:1::d
+browser.pipe.aria.microsoft.com,40172,20.189.173.7
+update.googleapis.com,38558,2a00:1450:400e:803::2003
