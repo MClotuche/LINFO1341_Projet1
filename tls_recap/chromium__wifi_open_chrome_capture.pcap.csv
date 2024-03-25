@@ -1,0 +1,18 @@
+Domain Name,Source Port,Destination IP
+onedrive.live.com,39298,13.107.139.11
+res-1.cdn.office.net,42432,2a02:a000:1:213::51f3:1e2
+api.onedrive.com,36042,13.107.42.12
+browser.events.data.microsoft.com,51378,20.42.65.89
+spo.nel.measure.office.net,38322,2a02:a000:1:213::51f3:158
+shellprod.msocdn.com,51092,2a02:a000:1:3a5::38f3
+res-2.cdn.office.net,41536,2606:2800:233:1cb7:261b:1f9c:2074:3c
+static2.sharepointonline.com,59596,2a02:a000:1:38d::33e7
+login.live.com,53252,20.190.177.21
+translate.googleapis.com,50358,2a00:1450:400e:801::200a
+skyapi.onedrive.live.com,53222,13.104.208.160
+ecs.office.com,55822,2620:1ec:42::132
+storage.live.com,35024,13.104.208.164
+config.edge.skype.com,54218,2620:1ec:21::16
+southcentralus1-0.pushnp.svc.ms,48042,2603:1036:2407:1::d
+content-autofill.googleapis.com,51034,2a00:1450:400e:810::200a
+browser.pipe.aria.microsoft.com,40708,20.42.65.90
