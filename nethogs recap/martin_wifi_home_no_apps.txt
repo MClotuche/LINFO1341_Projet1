@@ -1,9 +1,0 @@
-NetHogs version 0.8.6-3
-
-    PID USER     PROGRAM                                                      DEV         SENT      RECEIVED      
-    637 root     /usr/sbin/NetworkManager                                     wlp0s2      0.103       0.105 KB/sec
-      ? root     192.168.129.22:37236-185.125.190.97:80                                   0.083       0.089 KB/sec
-      ? root     unknown TCP                                                              0.000       0.000 KB/sec
-
-  TOTAL                                                                                   0.186       0.194 KB/sec
-
