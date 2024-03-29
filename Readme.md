@@ -1,4 +1,5 @@
 ### Martin CLOTUCHE - Laura RAUW
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Ce répertoire contient les différents scripts, captures réseaux et résultats nécéssaires à l'analyse de l'application OneDrive de Microsoft. 
 
 Le script le plus important est get_dns_tls infos. Il permet de récupérer les requêtes DNS, types et serveurs authoritatifs (disponibles dans le répertoire dns_recap), ainsi que les correspondances noms de domaines-ports-adresses (répertoire tls_recap) d'une capture réseau pcap. 
