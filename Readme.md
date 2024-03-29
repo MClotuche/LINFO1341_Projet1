@@ -1,7 +1,4 @@
 ### Martin CLOTUCHE - Laura RAUW
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 Ce répertoire contient les différents scripts, captures réseaux et résultats nécéssaires à l'analyse de l'application OneDrive de Microsoft. 
 
